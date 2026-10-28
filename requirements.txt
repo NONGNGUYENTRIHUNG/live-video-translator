@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+soundcard>=0.4.3,<1
+sounddevice>=0.5,<1
+faster-whisper>=1.1,<2
+flexaudio>=0.8,<0.9

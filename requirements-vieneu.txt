@@ -1,0 +1,5 @@
+vieneu>=3.7.1,<4
+transformers==4.57.6
+sounddevice>=0.5,<1
+soundfile>=0.12,<1
+numpy>=1.26,<3
